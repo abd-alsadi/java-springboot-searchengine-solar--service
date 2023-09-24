@@ -1,0 +1,1 @@
+please run server for solar(solr-8.9.0-src)
